@@ -1,0 +1,10 @@
+<RCC>
+  <qresource prefix="images">
+    <file>logout.png</file>
+    <file>icons8-update-user-96.png</file>
+    <file>icons8-denied-96.png</file>
+    <file>icons8-add-user-male-96.png</file>
+    <file>icons8-search-100.png</file>
+    <file>icons8-person-64.png</file>
+  </qresource>
+</RCC>
